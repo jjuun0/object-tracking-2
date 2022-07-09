@@ -1,0 +1,16 @@
+{
+    "name": "tracking demo",
+    "save_path": "D:/cswintt/newvideo1",
+    "video_name": "D:/dataset/newvideo1",
+    "video_type": "2D",
+    "image2d_ref": "images/007.png",
+    "check_iou": false,
+    "is_record": false,
+    "write_bbox": false,
+    "write_conf": false,
+    "write_time": false,
+    "start_frame_num": 66,
+    "last_frame_num": 600,
+    "start_focal_num": 0,
+    "last_focal_num": 100
+}
