@@ -19,6 +19,7 @@ class Load2DFolder:
         for frame in self.frames:
             image_path = os.path.join(self.root, frame)
             image_path = os.path.join(image_path, 'images/007.png')
+            # image_path = os.path.join(image_path, 'images/005.png')
             self.images_2d_path.append(image_path)
 
         # # focal images setting

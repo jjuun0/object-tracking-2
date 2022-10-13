@@ -9,7 +9,7 @@ class LoadFocalFolder:
         self.root = root
         # self.frames = os.listdir(root)
         self.frames = [str(i) for i in range(frame_range[0], frame_range[1]+1)]  #  newvideo1: "images/007.png", 65 start frame
-        # self.frames = [str(i).zfill(3) for i in range(frame_range[0], frame_range[1]+1)]  #  Nonvideo3: "images/005.png"
+        # self.frames = [str(i).zfill(3) for i in range(frame_range[0], frame_range[1]+1)]  #  Nonvideo3: "images/005.png", 33 start
         self.frame_range = frame_range
         self.type = type # focal or images
         self.focal_images_path = []
