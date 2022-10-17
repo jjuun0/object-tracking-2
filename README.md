@@ -1,8 +1,8 @@
-# object-tracking-2
+# Multiple object-tracking in Plenoptic video-2
 object tracking 에 이어서 모델을 변경해 정확도 향상에 초점을 둔 프로젝트입니다.
 
 - 학부 연구생, 2022.05~ 
-[이전 프로젝트 링크](https://github.com/jjuun0/object-tracking)
+- 이전 프로젝트 (플렌옵틱 영상의 다수 객체 추적 1 [link](https://github.com/jjuun0/object-tracking))
 
 ## 1. 모델 변경
 - SiamRPN++ → CSWinTT [링크](https://github.com/SkyeSong38/CSWinTT)
